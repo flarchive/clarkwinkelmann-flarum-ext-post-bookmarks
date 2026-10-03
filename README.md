@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-post-bookmarks.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-post-bookmarks) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-bookmarks/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-bookmarks/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-bookmarks/tree/archive/v0.1.0) |
+| `1.0.0` | 2021-06-11 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-post-bookmarks/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-post-bookmarks.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-post-bookmarks.json)
 
